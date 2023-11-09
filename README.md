@@ -6,6 +6,9 @@
 - Juan David Calderón Salamanca - A00395803
 - Santiago Escobar León - A00382203
 
+### **Description**
+This repository contains a handy reference sheet (cheat sheet) for the PL/SQL (Procedural Language/Structured Query Language) programming language. PL/SQL is a programming language primarily used in Oracle databases to develop stored procedures, functions, and triggers that enable data manipulation and business logic.
+
 ### **Build With** 🛠️
 
 <div style="text-align: left">
