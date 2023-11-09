@@ -10,6 +10,6 @@
 
 <div style="text-align: left">
     <p>
-        <a href="https://code.visualstudio.com/" target="_blank"> <img alt="Visual Studio Code" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="60" width = "60"></a>
+        <a href="https://www.jetbrains.com/idea/" target="_blank"> <img alt="IntelliJ IDEA" src="https://cdn.svgporn.com/logos/intellij-idea.svg" height="60" width = "60"></a>
     </p>
 </div>
